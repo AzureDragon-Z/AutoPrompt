@@ -1,0 +1,18 @@
+anthropic:
+  ANTHROPIC_API_KEY: ''
+openai:
+  OPENAI_API_KEY: ''
+  OPENAI_API_BASE: ''
+  OPENAI_ORGANIZATION: ''
+
+azure:
+  AZURE_OPENAI_API_KEY: ''
+  AZURE_OPENAI_ENDPOINT: ''
+  OPENAI_API_VERSION: ''
+
+google:
+  GOOGLE_API_KEY: ''
+
+siliconflow:
+  SILICONFLOW_API_KEY: "sk-sdqquavvnbporqdoiwtbstskvxywvvhblnropqeyndwlsvbo"
+  SILICONFLOW_API_BASE: "https://api.siliconflow.cn/v1"
